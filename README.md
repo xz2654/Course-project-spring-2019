@@ -7,7 +7,6 @@ The methods that the application uses are described in this [paper](https://gith
 ![Image](https://github.com/mtopaz/Course-project-spring-2019/blob/master/Fig1.jpg)
 
 You will also need the links below to complete your project:
-* [Package NimbleMiner]()
 * [Application NimbleMiner](https://github.com/mtopaz/NimbleMiner)
 
 
